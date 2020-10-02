@@ -1,8 +1,11 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "test-ex-fr Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "本能がオープンソースへ駆り立てる"
+  content : "オープンソースという言葉ができるよりも遙か以前から、人類は知識や技術の共有によって文化・産業を発展させてきました。
+            共有の精神は私達の DNA に刻まれ、だからこそ私達はオープンソースの魅力に駆り立てられるのではないでしょうか。
+            オープンソースに囲まれた日常生活は私達の心を豊かにし、本当の意味で世界の文化・産業を発展させる日常なると私達は確信しています。
+            本サイトでは\"オープンソースなライフスタイル\"の提案と、それを実現するために必要な全てのソフトウェア・ハードウェアを提供します。"
   image : "images/watch.png"
   button:
    enable : true
