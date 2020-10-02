@@ -1,5 +1,5 @@
 ---
-title: "Our Latest Post"
-description : "this is a meta description：日本語のテスト"
+title: "最新のプロダクトをお取り寄せします"
+description : "this is a meta description"
 draft: false
 ---
