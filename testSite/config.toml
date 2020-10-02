@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://www.open-soruce-life.jp"
+baseurl = "http://modest-easley-f10662.netlify.app"
 title = "Vex test | hugo landing page template test"
 theme = "vex-hugo"
 # post excert
