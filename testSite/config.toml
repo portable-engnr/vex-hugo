@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://demo.themefisher.com/vex-hugo/"
-title = "Vex-test | hugo landing page template"
+baseurl = "http://www.open-soruce-life.jp"
+title = "Vex test | hugo landing page template test"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
