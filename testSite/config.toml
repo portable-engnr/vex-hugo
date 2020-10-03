@@ -1,6 +1,7 @@
 ################################### Default Configuration ############################
-baseurl = "http://modest-easley-f10662.netlify.app"
-title = "Vex test | hugo landing page template test"
+baseurl = "http://www.open-source-life.jp"
+# "modest-easley-f10662.netlify.app"
+title = "OsLife | Everything on Open Source"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
