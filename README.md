@@ -3,8 +3,8 @@
 2. The Demo [page](https://themes.gohugo.io/theme/vex-hugo/#/).
 
 # Running Local Server
-`$ cd testSite`
-`$ hugo server --themesDir ../..`
+`cd testSite`
+`hugo server --themesDir ../..`
 
 # To Deploy
 `git push` to master.

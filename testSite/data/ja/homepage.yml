@@ -3,10 +3,10 @@ banner:
   enable : true
   title : "本能がオープンハードウェアへ駆り立てる"
   content : "オープンソースという言葉ができるよりも遙か以前から、わたし達人類は知識や技術の共有によって文化・産業を発展させてきました。
-            共有の精神は DNA に刻まれ、だからこそわたし達はオープンソースの魅力に駆り立てられるのではないでしょうか。
+            共有の精神は DNA に刻まれ、だからこそわたし達はオープンソースに魅せられるのではないでしょうか。
             オープンソースに囲まれた日常生活はわたし達の心を豊かに刺激し、そして本当の意味で世界の文化・産業を発展に貢献していくと、私達は確信しています。
             本サイトはそんなライフスタイルを提案し、それに必要な全てのハードウェア・ソフトウェアを、全てのひとに提供します。"
-  image : "images/watch.png"
+  image : "images/desk-open-hardware.png"
   button:
    enable : true
    label : "Browse All Products"
@@ -15,43 +15,38 @@ banner:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
-  image : "images/watch-2.png"
+  title : "Why Open Source Life now?"
+  image : "images//desk-open-hardware-2.png"
 
   # feature at the left of the image
   left_side:
-    # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    # feature item loop 
+  - title : "Why Opens Source"
+    icon : "tf-ion-ios-lightbulb-outline"
+    content : "オープンソースは可視化された知の集積地であり、だからこそより良い未来のために前進し続けることができます。
+              今あなたもユーザとして、一緒に未来をつくりませんか？"
     
     # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-    
-    # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
+  - title : "**System76** is the answer"
+    icon : "tf-genius"
+    content : "天才たちが提供するオープンソース PC は、
+              最高の UX と最先端のデバイスを、低価格であなたに届けます。
+              System76 から、最高のオープンソース生活をはじめませんか？。"
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-    # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  - title : "Compability"
+    icon : "tf-ion-ios-heart-outline"
+    content : "近年の目覚ましい発展により、日常のほとんどは、オープンソースで成り立つようになりました。
+              オープンソースに囲まれた日常に飛び込みましょう。
+              知的刺激に溢れた世界があなたを待っています。"
 
     # feature item loop
   - title : "Easy Pricing"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "オープンソースの恩恵をうけ、多くの場合オープンハードウェアは最先端でありながら低価格で入手できます。
+              オープンソースソフトウェアなら、更にコストはかかりません。"
 
 
 ############################# promo ############################
